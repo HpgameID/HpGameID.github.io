@@ -1,5 +1,4 @@
 # Hpgame.ID
-<meta name="google-site-verification" content="ZCOEgktxWkrue2_EVmjBIz8MoYGgLqWOcjjjk1_ffxU" />
 **Hpgame.ID** adalah situs web berita game berbasis AMP (Accelerated Mobile Pages) yang menyajikan informasi terbaru seputar dunia game, terutama untuk platform Android, iOS, dan PC.
 
 Website ini dihosting menggunakan [GitHub Pages](https://pages.github.com/) dan dapat diakses di:  
